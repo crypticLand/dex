@@ -1,3 +1,7 @@
+# BestSwap 
+
+We are building a cross chain, defi price aggregator. This is a proof of concept which is integratged with only 1inch next step is to integrate SerumSwap to show the price and fee difference between chain swaps.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
